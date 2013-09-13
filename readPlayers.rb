@@ -53,7 +53,7 @@ avg_points.map! {|num| num.to_f}
 salary.map! {|num| num.to_i}
 
 (0..names.length-1).each do |i|
-	if avg_points[i] >= 1.6
+	if avg_points[i] >= 1.7
 		if positions[i] == "P"
 			pitchers << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
 		elsif positions[i] == "1B"
@@ -154,9 +154,11 @@ count = 0
 									next if total_salary8 + of3[:salary] > 35000 || of3[:name] == of2[:name] || of3[:name] == of1[:name]
 									total_salary9 = total_salary8 + of3[:salary]
 									total_points9 = total_points8 + of3[:points]
-									if total_points9 > max_points
+									if total_points9 >= max_points - 0.0001
 										max_points = total_points9
 										team = [pitcher,catcher,first,second,ss,third,of1,of2,of3]
+										puts max_points
+										puts team
 									end
 								end
 							end
