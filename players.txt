@@ -52,9 +52,6 @@ Edwin Encarnacion
 OF
 Shane Victorino
 3	114	BOS@TAM	$4,700	Add
-OF
-Jacoby Ellsbury
-3.3	131	BOS@TAM	$4,600	Add
 1B
 Mike Napoli
 2.9	128	BOS@TAM	$4,600	Add
@@ -127,9 +124,6 @@ Will Venable
 3B
 Manny Machado
 2.5	145	NYY@BAL	$3,800	Add
-SS
-Everth Cabrera
-2.9	95	SDP@PHI	$3,800	Add
 OF
 Andre Ethier
 2.1	139	SFG@LOS	$3,800	Add
@@ -460,9 +454,6 @@ Caleb Gindl
 OF
 Moises Sierra
 2.2	19	LAA@TOR	$2,800	Add
-OF
-Nate Schierholtz
-2.4	121	CHC@PIT	$2,800	Add
 1B
 Justin Morneau
 2.2	137	CHC@PIT	$2,700	Add
@@ -556,9 +547,6 @@ Cesar Hernandez
 2B
 Chase d'Arnaud
 0	0	CHC@PIT	$2,600	Add
-SS
-Jean Segura
-2.6	139	MIL@STL	$2,600	Add
 1B
 Mark Reynolds
 2.1	120	NYY@BAL	$2,600	Add
@@ -739,9 +727,6 @@ Bryan Anderson
 SS
 Angel Sanchez
 -0.5	1	CLE@CWS	$2,400	Add
-C
-Mike Nickeas
-33.5	1	LAA@TOR	$2,400	Add
 2B
 Skip Schumaker
 1.2	114	SFG@LOS	$2,400	Add
@@ -964,9 +949,6 @@ Ty Wigginton
 OF
 Collin Cowgill
 0.9	57	LAA@TOR	$2,200	Add
-C
-John Buck
-2	106	CHC@PIT	$2,200	Add
 1B
 Travis HafnerDL
 1.9	81	NYY@BAL	$2,200	Add

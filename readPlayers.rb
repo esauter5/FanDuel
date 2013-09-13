@@ -8,7 +8,7 @@ positions = []
 dl = false
 position = ""
 
-File.open("players.txt").readlines.each do |line|
+File.open("new_day.txt").readlines.each do |line|
 	if i%3 == 1
 		dl = false
 		position = line.chop
@@ -34,7 +34,7 @@ end
 f = File.open('daily_players.txt', 'w')
 
 (0..names.length-1).each do |i|
-	f.write(names[i] + "*" + avg_points[i] + "*" + salary[i] + "*" + positions[i]+ "\n")
+	f.write(names[i] + "," + avg_points[i] + "," + salary[i] + "," + positions[i]+ "\n")
 end
 
 f.close
@@ -48,6 +48,7 @@ thirds = []
 of1s = []
 of2s = []
 of3s = []
+contains = false
 
 avg_points.map! {|num| num.to_f}
 salary.map! {|num| num.to_i}
@@ -55,26 +56,77 @@ salary.map! {|num| num.to_i}
 (0..names.length-1).each do |i|
 	if avg_points[i] >= 1.7
 		if positions[i] == "P"
-			pitchers << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if pitchers != []
+				pitchers.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				pitchers.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				pitchers.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i] }
+				pitchers.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			pitchers << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		elsif positions[i] == "1B"
-			firsts << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if firsts != []
+				firsts.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				firsts.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				firsts.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i]}
+				firsts.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			firsts << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		elsif positions[i] == "2B"
-			seconds << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if seconds != []
+				seconds.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				seconds.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				seconds.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i]}
+				seconds.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			seconds << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		elsif positions[i] == "SS"
-			sss << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if sss != []
+				sss.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				sss.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				sss.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i]}
+				sss.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			sss << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		elsif positions[i] == "3B"
-			thirds << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if thirds != []
+				thirds.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				thirds.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				thirds.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i]}
+				thirds.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			thirds << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		elsif positions[i] == "C"
-			catchers << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if catchers != []
+				catchers.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				catchers.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				catchers.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i]}
+				catchers.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			catchers << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		elsif positions[i] == "OF"
-			of1s << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
-			of2s << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
-			of3s << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]}
+			contains = false
+			if of1s != []
+				of1s.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				of2s.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				of3s.delete_if { |p| p[:salary] == salary[i] && p[:points] < avg_points[i] }
+				of1s.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				of2s.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				of3s.delete_if { |p| p[:salary] > salary[i] && p[:points] <= avg_points[i] }
+				of1s.each { |p| contains = true if p[:salary] == salary[i] && p[:points] > avg_points[i]}
+				of1s.each { |p| contains = true if p[:salary] < salary[i] && p[:points] >= avg_points[i]}
+			end
+			of1s << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
+			of2s << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
+			of3s << {name: names[i], points: avg_points[i], salary: salary[i], position: positions[i]} if contains == false
 		end
 	end
 end
-
-#binding.pry
 
 pitcher = {}
 catcher = {}
@@ -154,7 +206,7 @@ count = 0
 									next if total_salary8 + of3[:salary] > 35000 || of3[:name] == of2[:name] || of3[:name] == of1[:name]
 									total_salary9 = total_salary8 + of3[:salary]
 									total_points9 = total_points8 + of3[:points]
-									if total_points9 >= max_points - 0.0001
+									if total_points9 >= max_points - 0.001
 										max_points = total_points9
 										team = [pitcher,catcher,first,second,ss,third,of1,of2,of3]
 										puts max_points
