@@ -1,0 +1,1071 @@
+P
+Zack GreinkeP
+11.6	25	SFG@LOS	$9,800	Add
+P
+Matt CainP
+9.6	27	SFG@LOS	$7,200	Add
+P
+Corey KluberP
+10.5	22	CLE@CWS	$7,000	Add
+P
+Jake PeavyP
+10.9	20	BOS@TAM	$6,700	Add
+P
+Joe KellyP
+4.7	36	MIL@STL	$6,400	Add
+P
+Roy HalladayP
+6.5	10	SDP@PHI	$6,300	Add
+P
+Tyson RossP
+5.6	32	SDP@PHI	$6,300	Add
+P
+Wei-Yin ChenP
+9.2	19	NYY@BAL	$6,100	Add
+OF
+Mike Trout
+3.9	146	LAA@TOR	$5,500	Add
+P
+John DanksP
+8.3	20	CLE@CWS	$5,400	Add
+SS
+Hanley Ramirez
+3.7	78	SFG@LOS	$5,400	Add
+P
+Jeff LockeP
+9.2	27	CHC@PIT	$5,400	Add
+P
+Garrett RichardsP
+4.2	43	LAA@TOR	$5,200	Add
+P
+J.A. HappP
+7.2	14	LAA@TOR	$5,100	Add
+P
+Jeremy HellicksonP
+8.4	28	BOS@TAM	$5,100	Add
+OF
+Andrew McCutchen
+3.4	141	CHC@PIT	$4,900	Add
+1B
+Edwin Encarnacion
+3.4	139	LAA@TOR	$4,900	Add
+OF
+Shane Victorino
+3	114	BOS@TAM	$4,700	Add
+OF
+Jacoby Ellsbury
+3.3	131	BOS@TAM	$4,600	Add
+1B
+Mike Napoli
+2.9	128	BOS@TAM	$4,600	Add
+OF
+Yasiel Puig
+3.1	90	SFG@LOS	$4,500	Add
+P
+Chris RusinP
+7.4	10	CHC@PIT	$4,500	Add
+P
+Phil HughesP
+7	27	NYY@BAL	$4,500	Add
+2B
+Matt Carpenter
+2.7	159	MIL@STL	$4,400	Add
+P
+Tyler ThornburgP
+4.7	15	MIL@STL	$4,400	Add
+1B
+Chris Davis
+3.9	144	NYY@BAL	$4,400	Add
+OF
+Adam Jones
+3.1	145	NYY@BAL	$4,200	Add
+1B
+David Ortiz
+3.4	123	BOS@TAM	$4,200	Add
+2B
+Robinson Cano
+3.1	145	NYY@BAL	$4,100	Add
+SS
+Jose Reyes
+2.8	77	LAA@TOR	$4,100	Add
+OF
+Alfonso Soriano
+2.9	137	NYY@BAL	$4,100	Add
+OF
+Jose BautistaDL
+3.2	118	LAA@TOR	$4,000	Add
+C
+Buster Posey
+2.5	134	SFG@LOS	$4,000	Add
+3B
+Will Middlebrooks
+2.2	83	BOS@TAM	$4,000	Add
+C
+Carlos Santana
+2.5	137	CLE@CWS	$4,000	Add
+OF
+Carlos Beltran
+2.7	130	MIL@STL	$3,900	Add
+OF
+Starling Marte
+2.9	124	CHC@PIT	$3,900	Add
+OF
+Matt KempDL
+2.3	62	SFG@LOS	$3,900	Add
+OF
+Brett Gardner
+2.6	144	NYY@BAL	$3,900	Add
+3B
+Pablo Sandoval
+2.2	126	SFG@LOS	$3,800	Add
+3B
+Evan Longoria
+2.8	141	BOS@TAM	$3,800	Add
+OF
+Will Venable
+1.9	157	SDP@PHI	$3,800	Add
+3B
+Manny Machado
+2.5	145	NYY@BAL	$3,800	Add
+SS
+Everth Cabrera
+2.9	95	SDP@PHI	$3,800	Add
+OF
+Andre Ethier
+2.1	139	SFG@LOS	$3,800	Add
+2B
+Ryan Raburn
+2.6	73	CLE@CWS	$3,800	Add
+1B
+Corey HartDL
+0	0	MIL@STL	$3,700	Add
+3B
+Cody Asche
+2.3	34	SDP@PHI	$3,700	Add
+OF
+Josh Hamilton
+2.3	136	LAA@TOR	$3,700	Add
+OF
+Hunter Pence
+2.9	146	SFG@LOS	$3,700	Add
+3B
+Alex Rodriguez
+3	32	NYY@BAL	$3,700	Add
+OF
+Marlon Byrd
+2.7	131	CHC@PIT	$3,700	Add
+2B
+Jason Kipnis
+3.1	133	CLE@CWS	$3,700	Add
+OF
+Jonny Gomes
+2	105	BOS@TAM	$3,700	Add
+3B
+Juan Uribe
+1.7	118	SFG@LOS	$3,600	Add
+C
+Yadier Molina
+2.5	120	MIL@STL	$3,600	Add
+C
+Jonathan Lucroy
+2.4	130	MIL@STL	$3,600	Add
+1B
+Brandon Belt
+2.4	135	SFG@LOS	$3,600	Add
+OF
+Matt Holliday
+3	128	MIL@STL	$3,600	Add
+3B
+Aramis Ramirez
+2.4	79	MIL@STL	$3,600	Add
+1B
+Adrian Gonzalez
+2.5	140	SFG@LOS	$3,600	Add
+OF
+Wil Myers
+2.7	70	BOS@TAM	$3,600	Add
+OF
+Kole Calhoun
+2.5	42	LAA@TOR	$3,600	Add
+OF
+Angel Pagan
+2.6	57	SFG@LOS	$3,500	Add
+1B
+Mark TeixeiraDL
+2.2	15	NYY@BAL	$3,500	Add
+OF
+Nate McLouth
+2.5	131	NYY@BAL	$3,500	Add
+OF
+Rajai Davis
+2.3	99	LAA@TOR	$3,500	Add
+OF
+Domonic Brown
+2.7	123	SDP@PHI	$3,500	Add
+OF
+Mark Trumbo
+2.7	143	LAA@TOR	$3,500	Add
+OF
+Khristopher Davis
+2.2	48	MIL@STL	$3,500	Add
+OF
+Ben Zobrist
+2.1	166	BOS@TAM	$3,500	Add
+OF
+Ryan Sweeney
+1.9	54	CHC@PIT	$3,400	Add
+2B
+Dustin Pedroia
+2.8	146	BOS@TAM	$3,400	Add
+SS
+Stephen Drew
+2.4	111	BOS@TAM	$3,400	Add
+OF
+Carlos QuentinDL
+2.6	82	SDP@PHI	$3,400	Add
+2B
+Chase Utley
+2.6	115	SDP@PHI	$3,400	Add
+1B
+Darin Ruf
+2.2	65	SDP@PHI	$3,400	Add
+1B
+Adam Lind
+2.3	128	LAA@TOR	$3,400	Add
+1B
+Allen Craig
+2.6	142	MIL@STL	$3,300	Add
+OF
+Colby RasmusDL
+2.4	112	LAA@TOR	$3,300	Add
+SS
+Rafael FurcalDL
+0	0	MIL@STL	$3,300	Add
+SS
+J.J. Hardy
+2.2	142	NYY@BAL	$3,300	Add
+SS
+Eduardo Nunez
+1.8	77	NYY@BAL	$3,300	Add
+3B
+Pedro Alvarez
+2.5	135	CHC@PIT	$3,200	Add
+OF
+Junior Lake
+2.4	49	CHC@PIT	$3,200	Add
+2B
+Ryan Flaherty
+1.4	77	NYY@BAL	$3,200	Add
+SS
+Alexei Ramirez
+2.1	143	CLE@CWS	$3,200	Add
+1B
+Ryan HowardDL
+2.3	80	SDP@PHI	$3,200	Add
+C
+Matt Wieters
+2	135	NYY@BAL	$3,200	Add
+OF
+Carlos Gomez
+3	130	MIL@STL	$3,200	Add
+OF
+Ben RevereDL
+1.9	88	SDP@PHI	$3,200	Add
+OF
+Alejandro De Aza
+2	172	CLE@CWS	$3,200	Add
+3B
+Brett Lawrie
+2.1	92	LAA@TOR	$3,200	Add
+OF
+Jon Jay
+2.1	141	MIL@STL	$3,200	Add
+OF
+Desmond Jennings
+2.6	125	BOS@TAM	$3,100	Add
+2B
+Scooter Gennett
+2.1	51	MIL@STL	$3,100	Add
+C
+Yan Gomes
+2.3	73	CLE@CWS	$3,100	Add
+C
+Yasmani GrandalDL
+1.9	28	SDP@PHI	$3,100	Add
+OF
+Daniel Nava
+2.2	136	BOS@TAM	$3,100	Add
+C
+Dioner Navarro
+2	76	CHC@PIT	$3,100	Add
+OF
+Curtis Granderson
+2.5	45	NYY@BAL	$3,100	Add
+OF
+Cameron MaybinDL
+1.9	14	SDP@PHI	$3,100	Add
+C
+Jarrod Saltalamacchia
+2.3	110	BOS@TAM	$3,100	Add
+C
+Ramon Hernandez
+1.7	17	LAA@TOR	$3,100	Add
+OF
+Matt Joyce
+2.1	127	BOS@TAM	$3,100	Add
+SS
+Derek JeterDL
+1.6	17	NYY@BAL	$3,100	Add
+1B
+Nick Swisher
+2.3	128	CLE@CWS	$3,100	Add
+C
+Francisco CervelliDL
+2.5	18	NYY@BAL	$3,100	Add
+C
+Audry Perez
+0	0	MIL@STL	$3,000	Add
+OF
+Logan Watkins
+0.1	20	CHC@PIT	$3,000	Add
+OF
+Ezequiel Carrera
+0.5	15	CLE@CWS	$3,000	Add
+3B
+Luis Valbuena
+1.9	97	CHC@PIT	$3,000	Add
+SS
+Xander Bogaerts
+1.8	10	BOS@TAM	$3,000	Add
+C
+Johnny Monell
+0	1	SFG@LOS	$3,000	Add
+2B
+Ryan Goins
+1.2	18	LAA@TOR	$3,000	Add
+C
+Carlos Ruiz
+1.6	80	SDP@PHI	$3,000	Add
+1B
+Sean Halton
+0.9	28	MIL@STL	$3,000	Add
+C
+Cameron Rupp
+2	1	SDP@PHI	$3,000	Add
+C
+Miguel Gonzalez
+0	1	CLE@CWS	$3,000	Add
+SS
+Marcus Semien
+0.4	4	CLE@CWS	$3,000	Add
+2B
+Jose Ramirez
+0.8	7	CLE@CWS	$3,000	Add
+OF
+Fernando Martinez
+0.8	11	NYY@BAL	$3,000	Add
+OF
+Chris Robinson
+0	1	SDP@PHI	$3,000	Add
+OF
+Dayan Viciedo
+1.9	111	CLE@CWS	$3,000	Add
+OF
+Carl Crawford
+2.2	105	SFG@LOS	$2,900	Add
+2B
+Josh Harrison
+1	53	CHC@PIT	$2,900	Add
+OF
+Andrew Lambo
+0.9	11	CHC@PIT	$2,900	Add
+OF
+Logan Schafer
+1.1	121	MIL@STL	$2,900	Add
+2B
+Corban JosephDL
+1.4	2	NYY@BAL	$2,900	Add
+1B
+Luke Scott
+1.9	84	BOS@TAM	$2,900	Add
+2B
+Brian Roberts
+2	63	NYY@BAL	$2,900	Add
+3B
+Jon Diaz
+0.2	5	BOS@TAM	$2,900	Add
+SS
+Erick Aybar
+2.1	122	LAA@TOR	$2,900	Add
+1B
+Brett Pill
+0.8	41	SFG@LOS	$2,900	Add
+3B
+Danny Valencia
+2.5	35	NYY@BAL	$2,900	Add
+1B
+Mike Carp
+2.3	74	BOS@TAM	$2,900	Add
+OF
+Jermaine Curtis
+0.3	5	MIL@STL	$2,900	Add
+1B
+Brock Peterson
+0	17	MIL@STL	$2,900	Add
+OF
+Brian Bogusevic
+2.2	32	CHC@PIT	$2,900	Add
+OF
+Josh Prince
+0.5	8	MIL@STL	$2,900	Add
+1B
+Adam Dunn
+2.4	137	CLE@CWS	$2,800	Add
+C
+Tony Sanchez
+1.3	18	CHC@PIT	$2,800	Add
+C
+Jose Lobaton
+1.7	86	BOS@TAM	$2,800	Add
+OF
+Norichika Aoki
+2.1	137	MIL@STL	$2,800	Add
+C
+Ryan Lavarnway
+2	22	BOS@TAM	$2,800	Add
+OF
+Anthony Gose
+1.2	36	LAA@TOR	$2,800	Add
+OF
+Michael Brantley
+2.2	136	CLE@CWS	$2,800	Add
+OF
+Henry Urrutia
+0.6	24	NYY@BAL	$2,800	Add
+OF
+Kevin Pillar
+1	22	LAA@TOR	$2,800	Add
+OF
+J.B. Shuck
+1.8	115	LAA@TOR	$2,800	Add
+OF
+Ryan KalishDL
+0	0	BOS@TAM	$2,800	Add
+2B
+Donnie Murphy
+3.1	33	CHC@PIT	$2,800	Add
+OF
+Caleb Gindl
+1.4	46	MIL@STL	$2,800	Add
+OF
+Moises Sierra
+2.2	19	LAA@TOR	$2,800	Add
+OF
+Nate Schierholtz
+2.4	121	CHC@PIT	$2,800	Add
+1B
+Justin Morneau
+2.2	137	CHC@PIT	$2,700	Add
+C
+Hector Sanchez
+1.1	52	SFG@LOS	$2,700	Add
+1B
+Yonder Alonso
+2	95	SDP@PHI	$2,700	Add
+3B
+Chase Headley
+2.1	123	SDP@PHI	$2,700	Add
+2B
+Jedd Gyorko
+2.1	112	SDP@PHI	$2,700	Add
+3B
+Nick Punto
+1.2	106	SFG@LOS	$2,700	Add
+2B
+Kensuke Tanaka
+1.1	15	SFG@LOS	$2,700	Add
+SS
+Yunel Escobar
+1.9	136	BOS@TAM	$2,700	Add
+3B
+Kevin YoukilisDL
+1.7	28	NYY@BAL	$2,700	Add
+2B
+Kelly Johnson
+2	109	BOS@TAM	$2,700	Add
+3B
+David Freese
+1.9	123	MIL@STL	$2,700	Add
+1B
+Matt Adams
+1.8	91	MIL@STL	$2,700	Add
+SS
+Mike Aviles
+1.7	110	CLE@CWS	$2,700	Add
+SS
+Ronny Cedeno
+1.3	77	SDP@PHI	$2,700	Add
+1B
+James Loney
+2.1	139	BOS@TAM	$2,700	Add
+2B
+Neil Walker
+2.1	118	CHC@PIT	$2,700	Add
+SS
+Leury Garcia
+0.8	38	CLE@CWS	$2,600	Add
+OF
+Jason Bourgeois
+1	9	BOS@TAM	$2,600	Add
+OF
+Melky CabreraDL
+1.8	88	LAA@TOR	$2,600	Add
+C
+Chris Iannetta
+1.8	103	LAA@TOR	$2,600	Add
+OF
+Jackie Bradley
+1.6	26	BOS@TAM	$2,600	Add
+OF
+Nick Markakis
+2	143	NYY@BAL	$2,600	Add
+SS
+Asdrubal Cabrera
+2.1	119	CLE@CWS	$2,600	Add
+C
+Russell Martin
+2.3	115	CHC@PIT	$2,600	Add
+OF
+Roger Kieschnick
+0.8	33	SFG@LOS	$2,600	Add
+C
+Nick Hundley
+1.7	101	SDP@PHI	$2,600	Add
+2B
+Alexi Casilla
+1.1	59	NYY@BAL	$2,600	Add
+3B
+Jayson NixDL
+1.5	93	NYY@BAL	$2,600	Add
+OF
+Kyle Blanks
+1.6	92	SDP@PHI	$2,600	Add
+2B
+Cesar Hernandez
+1.4	17	SDP@PHI	$2,600	Add
+2B
+Chase d'Arnaud
+0	0	CHC@PIT	$2,600	Add
+SS
+Jean Segura
+2.6	139	MIL@STL	$2,600	Add
+1B
+Mark Reynolds
+2.1	120	NYY@BAL	$2,600	Add
+OF
+Avisail Garcia
+1.8	59	CLE@CWS	$2,600	Add
+OF
+Chris Dickerson
+1.3	51	NYY@BAL	$2,600	Add
+1B
+Lyle Overbay
+1.8	128	NYY@BAL	$2,600	Add
+1B
+Anthony Rizzo
+2.4	143	CHC@PIT	$2,600	Add
+OF
+Vernon Wells
+1.7	118	NYY@BAL	$2,600	Add
+C
+A.J. Ellis
+1.8	102	SFG@LOS	$2,600	Add
+3B
+Wilson Betemit
+-0.5	5	NYY@BAL	$2,600	Add
+OF
+Jesus Guzman
+1.3	115	SDP@PHI	$2,600	Add
+1B
+Mat GamelDL
+0	0	MIL@STL	$2,600	Add
+2B
+Kevin Frandsen
+1	105	SDP@PHI	$2,600	Add
+3B
+Chris NelsonDL
+1.4	64	LAA@TOR	$2,600	Add
+SS
+Dee Gordon
+1.6	27	SFG@LOS	$2,500	Add
+3B
+James Darnell
+0	0	SDP@PHI	$2,500	Add
+OF
+Delmon Young
+1.6	87	BOS@TAM	$2,500	Add
+C
+Hector Gimenez
+1.4	26	CLE@CWS	$2,500	Add
+OF
+Jaff Decker
+0.7	13	SDP@PHI	$2,500	Add
+2B
+Gordon Beckham
+1.8	91	CLE@CWS	$2,500	Add
+OF
+Brandon GuyerDL
+0	0	BOS@TAM	$2,500	Add
+2B
+Logan Forsythe
+1.5	65	SDP@PHI	$2,500	Add
+OF
+Chris Denorfia
+1.3	172	SDP@PHI	$2,500	Add
+3B
+Ian Stewart
+0	0	SFG@LOS	$2,500	Add
+OF
+Peter Bourjos
+1.8	55	LAA@TOR	$2,500	Add
+OF
+Brennan Boesch
+1.5	23	NYY@BAL	$2,500	Add
+2B
+Rickie WeeksDL
+1.8	104	MIL@STL	$2,500	Add
+1B
+Juan Francisco
+1.8	111	MIL@STL	$2,500	Add
+1B
+Paul Konerko
+1.8	112	CLE@CWS	$2,500	Add
+SS
+Yuniesky Betancourt
+1.2	123	MIL@STL	$2,500	Add
+OF
+David DeJesus
+1.8	105	BOS@TAM	$2,500	Add
+C
+Hank Conger
+1.4	82	LAA@TOR	$2,500	Add
+OF
+Quintin Berry
+1.2	8	BOS@TAM	$2,500	Add
+SS
+Jeff Bianchi
+0.9	82	MIL@STL	$2,500	Add
+1B
+Taylor GreenDL
+0	0	MIL@STL	$2,500	Add
+SS
+Jimmy Rollins
+1.8	143	SDP@PHI	$2,500	Add
+3B
+Michael Young
+1.8	133	SFG@LOS	$2,500	Add
+C
+David Ross
+1.5	32	BOS@TAM	$2,400	Add
+C
+Chris Gimenez
+0.9	2	BOS@TAM	$2,400	Add
+OF
+Melky Mesa
+1.8	5	NYY@BAL	$2,400	Add
+OF
+Ichiro Suzuki
+1.7	139	NYY@BAL	$2,400	Add
+SS
+Andrew Romine
+0.6	30	LAA@TOR	$2,400	Add
+OF
+Adron Chambers
+0.5	16	MIL@STL	$2,400	Add
+3B
+Conor Gillaspie
+1.5	120	CLE@CWS	$2,400	Add
+C
+Michael McKenryDL
+1.2	41	CHC@PIT	$2,400	Add
+OF
+Michael Bourn
+2.3	116	CLE@CWS	$2,400	Add
+C
+Welington Castillo
+1.8	107	CHC@PIT	$2,400	Add
+OF
+Darnell McDonald
+0.6	17	CHC@PIT	$2,400	Add
+OF
+Dave Sappelt
+0.8	31	CHC@PIT	$2,400	Add
+OF
+Matt Carson
+1	7	CLE@CWS	$2,400	Add
+C
+Tyler FlowersDL
+1.3	84	CLE@CWS	$2,400	Add
+C
+John Hester
+0	0	LAA@TOR	$2,400	Add
+OF
+Shane Robinson
+1	85	MIL@STL	$2,400	Add
+2B
+Pete Orr
+0.4	9	SDP@PHI	$2,400	Add
+C
+Lou MarsonDL
+0.4	3	CLE@CWS	$2,400	Add
+C
+Drew Butera
+-0.1	2	SFG@LOS	$2,400	Add
+SS
+Jonathan Schoop
+0	0	NYY@BAL	$2,400	Add
+C
+J.C. Boscan
+-1	2	CHC@PIT	$2,400	Add
+SS
+Pete Kozma
+1.1	129	MIL@STL	$2,400	Add
+OF
+Brad Hawpe
+0.5	17	LAA@TOR	$2,400	Add
+C
+Bryan Anderson
+0.1	4	CLE@CWS	$2,400	Add
+SS
+Angel Sanchez
+-0.5	1	CLE@CWS	$2,400	Add
+C
+Mike Nickeas
+33.5	1	LAA@TOR	$2,400	Add
+2B
+Skip Schumaker
+1.2	114	SFG@LOS	$2,400	Add
+SS
+Jordy Mercer
+1.6	95	CHC@PIT	$2,400	Add
+OF
+Julio Borbon
+0.7	73	CHC@PIT	$2,400	Add
+OF
+Felix Pie
+0.5	19	CHC@PIT	$2,400	Add
+2B
+Freddy Galvis
+1.4	60	SDP@PHI	$2,400	Add
+OF
+Zoilo Almonte
+1.6	27	NYY@BAL	$2,400	Add
+C
+Steve Clevenger
+-4.6	8	NYY@BAL	$2,400	Add
+2B
+Elian Herrera
+0.2	4	SFG@LOS	$2,300	Add
+2B
+Tony Abreu
+1.1	41	SFG@LOS	$2,300	Add
+3B
+Nick Noonan
+0.4	54	SFG@LOS	$2,300	Add
+C
+Chris Snyder
+0.4	7	NYY@BAL	$2,300	Add
+1B
+Gaby Sanchez
+1.3	126	CHC@PIT	$2,300	Add
+OF
+Juan Perez
+0.7	22	SFG@LOS	$2,300	Add
+3B
+Andy LaRoche
+-1	1	LAA@TOR	$2,300	Add
+2B
+Cord PhelpsDL
+-0.6	4	CLE@CWS	$2,300	Add
+3B
+Juan Diaz
+0	0	CLE@CWS	$2,300	Add
+2B
+Joaquin Arias
+0.8	94	SFG@LOS	$2,300	Add
+OF
+Jose Tabata
+1.5	93	CHC@PIT	$2,300	Add
+1B
+Garrett Jones
+1.6	131	CHC@PIT	$2,300	Add
+C
+Omir Santos
+-1.8	1	CLE@CWS	$2,300	Add
+3B
+Luis Jimenez
+1.1	34	LAA@TOR	$2,300	Add
+1B
+Steve PearceDL
+1.5	38	NYY@BAL	$2,300	Add
+C
+Chris Stewart
+1.1	99	NYY@BAL	$2,300	Add
+3B
+Jeff Keppinger
+1.2	111	CLE@CWS	$2,300	Add
+3B
+Brent Morel
+0.9	12	CLE@CWS	$2,300	Add
+OF
+Blake Tekotte
+0.9	20	CLE@CWS	$2,300	Add
+3B
+Maicer IzturisDL
+1.1	123	LAA@TOR	$2,300	Add
+1B
+Jason Giambi
+1.6	63	CLE@CWS	$2,300	Add
+2B
+Howie Kendrick
+2.3	108	LAA@TOR	$2,300	Add
+3B
+Lonnie Chisenhall
+1.5	86	CLE@CWS	$2,300	Add
+OF
+Scott Van Slyke
+1.9	43	SFG@LOS	$2,300	Add
+OF
+Jason Kubel
+1.2	96	CLE@CWS	$2,300	Add
+C
+Luis Exposito
+0	0	NYY@BAL	$2,300	Add
+SS
+Munenori Kawasaki
+1.4	83	LAA@TOR	$2,300	Add
+OF
+Alex Castellanos
+0.7	4	SFG@LOS	$2,300	Add
+SS
+Ryan Jackson
+-0.3	5	MIL@STL	$2,300	Add
+OF
+Shelley Duncan
+1.3	20	BOS@TAM	$2,300	Add
+OF
+Sam Fuld
+0.8	104	BOS@TAM	$2,300	Add
+C
+Jose Molina
+1.1	88	BOS@TAM	$2,200	Add
+SS
+Cody Ransom
+1.6	62	CHC@PIT	$2,200	Add
+OF
+Ben Francisco
+0.4	21	SDP@PHI	$2,200	Add
+3B
+Brent Lillibridge
+0.3	20	NYY@BAL	$2,200	Add
+OF
+Drew Stubbs
+1.7	137	CLE@CWS	$2,200	Add
+OF
+Gregor Blanco
+1.6	134	SFG@LOS	$2,200	Add
+OF
+Roger Bernadina
+0.7	102	SDP@PHI	$2,200	Add
+C
+Erik Kratz
+1.5	63	SDP@PHI	$2,200	Add
+C
+Josh Phegley
+1.2	51	CLE@CWS	$2,200	Add
+1B
+Mark Kotsay
+0.4	92	SDP@PHI	$2,200	Add
+SS
+Sean Rodriguez
+1	85	BOS@TAM	$2,200	Add
+OF
+Mike Morse
+1.7	84	NYY@BAL	$2,200	Add
+OF
+Cole Gillespie
+0.7	28	CHC@PIT	$2,200	Add
+OF
+John Mayberry
+1.4	135	SDP@PHI	$2,200	Add
+2B
+Mark Ellis
+1.7	112	SFG@LOS	$2,200	Add
+3B
+Thomas Field
+0.3	12	LAA@TOR	$2,200	Add
+C
+Martin Maldonado
+1	59	MIL@STL	$2,200	Add
+OF
+Scott Cousins
+0.1	7	LAA@TOR	$2,200	Add
+3B
+Alberto Gonzalez
+0.8	24	NYY@BAL	$2,200	Add
+C
+Rene Rivera
+0.7	18	SDP@PHI	$2,200	Add
+OF
+Casper WellsDL
+0.1	52	SDP@PHI	$2,200	Add
+C
+Guillermo Quiroz
+0.6	43	SFG@LOS	$2,200	Add
+SS
+Starlin Castro
+1.6	144	CHC@PIT	$2,200	Add
+3B
+Alex Liddi
+-0.1	8	NYY@BAL	$2,200	Add
+C
+Kelly Shoppach
+1.4	35	CLE@CWS	$2,200	Add
+C
+Josh Thole
+0.8	37	LAA@TOR	$2,200	Add
+2B
+Yamaico Navarro
+1.5	8	NYY@BAL	$2,200	Add
+2B
+Robert Andino
+0.6	30	CHC@PIT	$2,200	Add
+SS
+Alex Gonzalez
+0.7	41	MIL@STL	$2,200	Add
+2B
+Ryan Roberts
+1.2	60	BOS@TAM	$2,200	Add
+OF
+Thomas NealDL
+0.3	6	CHC@PIT	$2,200	Add
+C
+Rob Johnson
+0.4	19	MIL@STL	$2,200	Add
+C
+Tony Cruz
+0.9	45	MIL@STL	$2,200	Add
+C
+Tim Federowicz
+1.2	49	SFG@LOS	$2,200	Add
+3B
+Ty Wigginton
+0.4	47	MIL@STL	$2,200	Add
+OF
+Collin Cowgill
+0.9	57	LAA@TOR	$2,200	Add
+C
+John Buck
+2	106	CHC@PIT	$2,200	Add
+1B
+Travis HafnerDL
+1.9	81	NYY@BAL	$2,200	Add
+OF
+Francisco Peguero
+0.4	11	SFG@LOS	$2,200	Add
+OF
+Travis Snider
+1.1	101	CHC@PIT	$2,200	Add
+2B
+Marco Scutaro
+1.9	124	SFG@LOS	$2,200	Add
+OF
+Jordan Danks
+1	65	CLE@CWS	$2,200	Add
+3B
+John McDonald
+0.3	47	BOS@TAM	$2,200	Add
+SS
+Brandon Crawford
+1.7	136	SFG@LOS	$2,200	Add
+C
+Taylor Teagarden
+0.6	23	NYY@BAL	$2,200	Add
+SS
+Grant Green
+1.4	37	LAA@TOR	$2,200	Add
+C
+Steve Lerud
+-0.2	6	SDP@PHI	$2,200	Add
+3B
+David Adams
+1	42	NYY@BAL	$2,200	Add
+OF
+Laynce Nix
+0.4	81	SDP@PHI	$2,200	Add
+2B
+Daniel Descalso
+1.4	110	MIL@STL	$2,200	Add
+1B
+Travis Ishikawa
+0	7	CLE@CWS	$2,200	Add
+2B
+Darwin Barney
+1.5	127	CHC@PIT	$2,200	Add
+2B
+Kolten Wong
+0.4	22	MIL@STL	$2,200	Add
+3B
+Brandon Snyder
+0.9	23	BOS@TAM	$2,200	Add
+OF
+Andres TorresDL
+1.2	103	SFG@LOS	$2,200	Add
+SS
+Justin Sellers
+0.7	27	SFG@LOS	$2,200	Add
+SS
+Clint Barmes
+1	94	CHC@PIT	$2,200	Add
+C
+J.P. Arencibia
+1.6	126	LAA@TOR	$2,200	Add
+OF
+Jeff Francoeur
+1	81	SFG@LOS	$2,200	Add
+2B
+Alexi Amarista
+1.1	129	SDP@PHI	$2,200	Add
+3B
+Michael Martinez
+0.4	24	SDP@PHI	$2,200	Add
+C
+Blake Lalli
+0	16	MIL@STL	$2,200	Add
+3B
+Brock Holt
+1.3	23	BOS@TAM	$2,200	Add
+2B
+Jerry Hairston Jr.
+0.9	86	SFG@LOS	$2,200	Add
+OF
+Mark DeRosa
+1.5	80	LAA@TOR	$2,200	Add
+C
+John Baker
+0.3	16	SFG@LOS	$2,200	Add
+C
+Austin Romine
+0.8	60	NYY@BAL	$2,200	Add
+3B
+Brandon Inge
+0.4	50	CHC@PIT	$2,200	Add
+OF
+DeWayne Wise
+0.7	30	CLE@CWS	$2,200	Add
+OF
+Nolan ReimoldDL
+1.4	40	NYY@BAL	$2,200	Add
+SS
+Luis Cruz
+0.6	61	NYY@BAL	$2,200	Add
